@@ -1,6 +1,11 @@
 # encounter-traffic
 Code for "Learning the Relation Between Mobile Encounters and Web Traffic Patterns: A Data-driven Study" MSWiM 2018 (Tech Report: https://arxiv.org/abs/1808.03842)
 
+Please feel free to contact the authors:  
+Babak Alipour <babak.alipour@gmail.com>  
+Mimonah Alqathrady <mimonahalqathrady@gmail.com>  
+Ahmed Helmy <helmy@ufl.edu>  
+
 **Note: If you use any of these tools, code or data, please make sure to cite our correspnding paper(s).**
 
 # Pre-built Docker image
