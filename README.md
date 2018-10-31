@@ -7,4 +7,5 @@ Link: https://hub.docker.com/r/nomadsgroupm/encounter-traffic/
 To run the image:
 >docker run -p 8888:8888 nomadsgroupm/encounter-traffic:demo
 
+This starts a Jupyter notebook and bind the corresponding ports.
 Please note that the Docker image includes the code, __and__ a sample of data.
