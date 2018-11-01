@@ -1,5 +1,5 @@
 # encounter-traffic
-Code for "Learning the Relation Between Mobile Encounters and Web Traffic Patterns: A Data-driven Study" MSWiM 2018 (Tech Report: https://arxiv.org/abs/1808.03842)
+Code for "Learning the Relation Between Mobile Encounters and Web Traffic Patterns: A Data-driven Study" MSWiM 2018 (ACM: https://dl.acm.org/citation.cfm?id=3242137, Tech Report: https://arxiv.org/abs/1808.03842)
 
 Please feel free to contact the authors:  
 Babak Alipour <babak.alipour@gmail.com>  
