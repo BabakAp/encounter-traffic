@@ -31,3 +31,6 @@ By accessing the Docker image or any of the data files associated with this proj
   * The law of the State of Florida shall apply to all disputes under this agreement.  
 
 (Data license adapted from [ImageNet](http://image-net.org/download-faq))  
+
+**Acknowledgements**  
+This work was partially funded by NSF 1320694. We gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research.
